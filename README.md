@@ -1,2 +1,2 @@
 # demo
-This is my first fit repository.
+This is my first first repository.
